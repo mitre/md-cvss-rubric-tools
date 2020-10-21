@@ -6,10 +6,10 @@ The rubic is structured as a series of questions at the decision points for assi
 
 This repository provides tools for applying the rubric. 
 
-## Useful Resources
+### Useful Resources
 
-[http://www.mitre.org/md-cvss-rubric](Rubric for Applying CVSS to Medical Devices)
+[Rubric for Applying CVSS to Medical Devices](http://www.mitre.org/md-cvss-rubric)
 
-## Repository
+### Tools in this Repo
 
 * md-cvss-rubric-calc (Excel-based calculator contributed by MedSec)
