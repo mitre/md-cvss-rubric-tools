@@ -4,7 +4,7 @@ The Common Vulnerability Scoring System (CVSS) is an open standard designed to c
 
 Members of the medical device cybersecurity ecosystem have developed calculators to facilitate using the rubric. Some of the tools are desktop applications, such as spreadsheet based calculators, and others are web-based. The desktop calculators are available in the [CVSS Rubric Tools GitHub repo](https://github.com/mitre/md-cvss-rubric-tools) and links to the web-based calculators are listed below.
 
-FDA qualified the rubric as a [Medical Device Development Tool (MDDT)](https://www.fda.gov/medical-devices/science-and-research-medical-devices/medical-device-development-tools-mddt), which means FDA beieves the rubric produces measures that can be used in "the evaluation and justification of patient-centric, situational impact and urgency characteristics in time-sensitive postmarket vulnerability disclosures of medical devices." Note that the calculators on this web site are **NOT** MDDTs, but should be validated against the rubric before relying upon them.
+FDA qualified the rubric as a [Medical Device Development Tool (MDDT)](https://www.fda.gov/medical-devices/science-and-research-medical-devices/medical-device-development-tools-mddt), which means FDA believes the rubric produces measures that can be used in "the evaluation and justification of patient-centric, situational impact and urgency characteristics in time-sensitive postmarket vulnerability disclosures of medical devices." Note that the calculators on this web site are **NOT** MDDTs, but should be validated against the rubric before relying upon them.
 
 
 
