@@ -1,37 +1,16 @@
-## Welcome to GitHub Pages
+## Tools for the CVSS Rubric for Medical Devices
 
-You can use the [editor on GitHub](https://github.com/mitre/md-cvss-rubric-tools/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+The Common Vulnerability Scoring System (CVSS) is an open standard designed to convey vulnerability severity and help determine the urgency and priority of response. CVSS and its associated rubric and examples were developed for enterprise information technology systems and do not adequately reflect the clinical environment and potential patient safety impacts. MITRE--in collaboration with a working group of subject matter experts across the medical device ecosystem, including FDA, medical device manufacturers, healthcare delivery organizations, security experts, and safety/risk assessment experts--developed a rubric to provide more specific guidance guidance for applying CVSS to medical devices. The rubric and additional information can be found on [MITRE's website](https://www.mitre.org/md-cvss-rubric).
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Members of the medical device cybersecurity ecosystem have developed tools to facilitate using the rubric. Some of these tools are desktop applications, such as spreadsheet based calculators, and others are web-based. The desktop tools are available in the [CVSS Rubric Tools GitHub repo](https://github.com/mitre/md-cvss-rubric-tools) and links toweb-based calculator's are listed below.
 
-### Markdown
+FDA qualified the rubric as a [Medical Device Development Tool (MDDT)](https://www.fda.gov/medical-devices/science-and-research-medical-devices/medical-device-development-tools-mddt), which means FDA beieves the rubric produces measures that can be used in "the evaluation and justification of patient-centric, situational impact and urgency characteristics in time-sensitive postmarket vulnerability disclosures of medical devices." Note that the calculators on this web site are **NOT** MDDTs, but should be validated against the rubric before relying upon them.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
-```markdown
-Syntax highlighted code block
 
-# Header 1
-## Header 2
-### Header 3
+### Desktop Tools
+- MedSec's Excel spreadsheet calculator
 
-- Bulleted
-- List
+### Web-Based Tools
 
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/mitre/md-cvss-rubric-tools/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+- [Deep Armor's Online Calculator](https://cvss-rubric.deeparmor.com/)
